@@ -1,4 +1,6 @@
 # Crowd funding D-app
+
+Crowdfunding for innovation is a financing method that allows individuals or organizations to raise funds for innovative projects, products, or ideas from a large number of people, typically through online platforms. 
   
 ## Getting started
 
